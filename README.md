@@ -1,4 +1,4 @@
-# Azurea Entra
+# Azure Entra
 ## Descrição
 ### O projeto Azurea Entra é uma solução desenvolvida para simplificar o gerenciamento de identidades e acessos utilizando o Microsoft Azure Active Directory e outros recursos de autenticação e autorização. Esta aplicação é ideal para empresas que desejam automatizar e aprimorar a segurança na gestão de usuários e permissões.
 
